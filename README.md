@@ -1,8 +1,8 @@
-# Cross Prompting Consistency with Segment Anything Model for Semi-supervised Medical Image Segmentation (MICCAI 2024)
+# SAM-Driven Cross Prompting with Adaptive Sampling Consistency for Semi-supervised Medical Image Segmentation
 
 ### Introduction
 
-We provide the codes for CPC-SAM on the ACDC Dataset here.
+We provide the codes for CPAC-SAM on the ACDC Dataset here.
 ### Requirements
 Please see requirements.txt
 
@@ -32,7 +32,7 @@ Please see requirements.txt
 ### Acknowledgement
 This code is based on the framework of [SSL4MIS](https://github.com/HiLab-git/SSL4MIS/) and [SAMed](https://github.com/hitachinsk/SAMed). We thank the authors for their codebase.
 
-## Citation
+<!-- ## Citation
 If you find the code useful for your research, please consider starring ⭐ and cite our paper:
 ```sh
 @inproceedings{miao2024cross,
@@ -42,6 +42,6 @@ If you find the code useful for your research, please consider starring ⭐ and 
   pages={167--177},
   year={2024},
   organization={Springer}
-}
+} -->
 ```
 
